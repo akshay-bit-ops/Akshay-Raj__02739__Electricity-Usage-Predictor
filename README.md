@@ -2,7 +2,7 @@
 
 A Python project for **PS No. 62** that analyses historical monthly electricity consumption, fits a simple linear regression model, predicts usage for a selected future month, estimates the bill, and visualises the trend.
 
-The original console-based workflow is retained in `electricity_predictor.py`. A Flask web interface is also included so the project can be used in a browser and deployed as a Python web service on Render.
+The original console-based workflow is retained in `electricity_predictor.py`. A Flask web interface is also included so the project can be used in a browser and deployed as a Python web service on Render.\n\n## 🌐 HTML5 Project Overview\n\nExplore the project's purpose, workflow, regression model, technology stack, and local setup in the standalone HTML5 overview:\n\n**[Open Electricity Usage Predictor — Project Overview](overview.html)**
 
 ## ✨ Features
 
