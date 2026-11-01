@@ -80,7 +80,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser, upload a CSV file, enter the month to predict, and submit.
+Open [https://akshay-raj-02739-electricity-usage.onrender.com) in your browser, upload a CSV file, enter the month to predict, and submit.
 
 ### Run the original console version
 
